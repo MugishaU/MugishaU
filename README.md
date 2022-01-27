@@ -1,12 +1,12 @@
 # Hi there 👋🏿
-I'm Mugisha, a software engineer who specialises in building secure & scalable backend services. I'm currently helping to build an Intelligent energy platform at [Kaluza](https://www.kaluza.com/). Check out some of my personal projects below!
+
+I'm Mugisha, a software engineer who specialises in building secure & scalable backend services. I'm currently helping to build an Intelligent energy platform at [Kaluza](https://www.kaluza.com/).
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugishau&exclude_repo=github-readme-stats&layout=compact&langs_count=6&hide=css&custom_title=My%20Languages)](https://github.com/mugishau/github-readme-stats)
 
 [![MugishaU GitHub Stats](https://github-readme-stats-mugishau.vercel.app/api?username=mugishau&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&locale=en&custom_title=My%20Activity)](https://github.com/mugishau/github-readme-stats)
-___
-## My Technologies
-<i class="devicon-scala-plain colored"/>
 
-
+---
 
 <!--
 **MugishaU/MugishaU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
