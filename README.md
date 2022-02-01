@@ -45,11 +45,11 @@ I'm Mugisha, a software engineer who specialises in building secure & scalable b
 
 ---
 
-### I'm currently working on...
+## I'm currently working on...
 
-- [My New Portfolio](https://github.com/MugishaU/portfolio_v2)
-- [Twitter Bot](https://github.com/MugishaU/twitter-bot)
-- [fp-tower (Functional Programming in Scala)](https://github.com/MugishaU/fp-tower)
+- [My new portfolio](https://github.com/MugishaU/portfolio_v2)
+- [Twitter bot](https://github.com/MugishaU/twitter-bot)
+- [FP Tower (Functional Programming in Scala)](https://github.com/MugishaU/fp-tower)
 
 <!--
 
