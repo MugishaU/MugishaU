@@ -51,6 +51,10 @@ I'm Mugisha, a software engineer who specialises in building secure & scalable b
 - [Twitter bot](https://github.com/MugishaU/twitter-bot)
 - [FP Tower (Functional Programming in Scala)](https://github.com/MugishaU/fp-tower)
 
+---
+
+Icons provided by [Icons8](https://icons8.com/).
+
 <!--
 
 **MugishaU/MugishaU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
