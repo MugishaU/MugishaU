@@ -2,7 +2,7 @@
 
 I'm Mugisha, a software engineer who specialises in building secure & scalable backend services. I'm currently helping to build an Intelligent energy platform at [Kaluza](https://www.kaluza.com/).
 
-## Languages & Frameworks
+## Languages & Frameworks*
 
 <div float="left">
     <img src = "icons/languages/scala.svg" alt="scala"/>
@@ -53,6 +53,8 @@ I'm Mugisha, a software engineer who specialises in building secure & scalable b
 - [FP Tower (Functional Programming in Scala)](https://github.com/MugishaU/fp-tower)
 
 ---
+
+*Yes, I _know_ React is a library.
 
 Icons provided by [Icons8](https://icons8.com/).
 
