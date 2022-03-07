@@ -2,7 +2,7 @@
 
 I'm Mugisha, a software engineer who specialises in building secure & scalable backend services. I'm currently helping to build an Intelligent energy platform at [Kaluza](https://www.kaluza.com/).
 
-## Languages & Frameworks*
+## Languages & Frameworks\*
 
 <div float="left">
     <img src = "icons/languages/scala.svg" alt="scala"/>
@@ -14,7 +14,7 @@ I'm Mugisha, a software engineer who specialises in building secure & scalable b
     <img src = "icons/languages/bash.svg" alt="bash"/>
 </div>
 
-## Cloud Infrastructure & CI/CD
+## DevOps
 
 <div float="left">
     <img src = "icons/cloud/aws.svg" alt="aws"/>
@@ -54,22 +54,6 @@ I'm Mugisha, a software engineer who specialises in building secure & scalable b
 
 ---
 
-*Yes, I _know_ React is a library.
+\*Yes, I _know_ React is a library.
 
 Icons provided by [Icons8](https://icons8.com/).
-
-<!--
-
-**MugishaU/MugishaU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
