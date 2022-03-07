@@ -48,8 +48,8 @@ I'm Mugisha, a software engineer who specialises in building secure & scalable b
 
 ## I'm currently working on...
 
-- [My new portfolio](https://github.com/MugishaU/portfolio_v2)
-- [Twitter bot](https://github.com/MugishaU/twitter-bot)
+- [BlackTechJobs - Twitter bot](https://github.com/MugishaU/twitter-bot)
+- [My (_new_) Portfolio](https://github.com/MugishaU/portfolio_v2)
 - [FP Tower (Functional Programming in Scala)](https://github.com/MugishaU/fp-tower)
 
 ---
