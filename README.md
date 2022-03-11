@@ -67,5 +67,3 @@ I'm Mugisha, a software engineer who specialises in building secure & scalable b
 ---
 
 \*Yes, I _know_ React is a library.
-
-Icons provided by [Icons8](https://icons8.com/).
