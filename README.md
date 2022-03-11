@@ -6,23 +6,27 @@ I'm Mugisha, a software engineer who specialises in building secure & scalable b
 
 <div float="left">
     <img src = "icons/languages/scala.svg" alt="scala"/>
-    <img src = "icons/languages/javascript.svg" alt="javascript"/>
     <img src = "icons/languages/python.svg" alt="python"/> 
+    <img src = "icons/languages/node.svg" alt="node"/>
     <img src = "icons/languages/react.svg" alt="react"/>
-    <img src = "icons/languages/bootstrap.svg" alt="bootstrap"/>
     <img src = "icons/languages/flask.svg" alt="flask"/>
     <img src = "icons/languages/bash.svg" alt="bash"/>
+    <img src = "icons/languages/bootstrap.svg" alt="bootstrap"/>
+    <img src = "icons/languages/play.svg" alt="play"/>
 </div>
 
 ## DevOps
 
 <div float="left">
-    <img src = "icons/cloud/aws.svg" alt="aws"/>
-    <img src = "icons/cloud/gcp.svg" alt="gcp"/>
-    <img src = "icons/cloud/firebase.svg" alt="firebase"/>
-    <img src = "icons/cloud/terraform.svg" alt="terraform"/>
-    <img src = "icons/cloud/circleci.svg" alt="circleci"/>
-    <img src = "icons/cloud/jenkins.svg" alt="jenkins"/>
+    <img src = "icons/devops/aws.svg" alt="aws"/>
+    <img src = "icons/devops/gcp.svg" alt="gcp"/>
+    <img src = "icons/devops/firebase.svg" alt="firebase"/>
+    <img src = "icons/devops/terraform.svg" alt="terraform"/>
+    <img src = "icons/devops/circleci.svg" alt="circleci"/>
+    <img src = "icons/devops/github-actions.svg" alt="github actions">
+    <img src = "icons/devops/jenkins.svg" alt="jenkins"/>
+    <img src = "icons/devops/datadog.svg" alt="datadog"/>
+    <img src = "icons/devops/cloudflare.svg" alt="cloudflare"/>
 </div>
 
 ## Storage & Messaging
@@ -31,6 +35,14 @@ I'm Mugisha, a software engineer who specialises in building secure & scalable b
     <img src = "icons/storage/kafka.svg" alt="kafka"/>
     <img src = "icons/storage/postgresql.svg" alt="postgresql"/>
     <img src = "icons/storage/mysql.svg" alt="mysql"/>
+</div>
+
+## Hosting
+
+<div float="left">
+    <img src = "icons/hosting/netlify.svg" alt="netlify"/>
+    <img src = "icons/hosting/heroku.svg" alt="heroku"/>
+    <img src = "icons/hosting/vercel.svg" alt="vercel"/>
 </div>
 
 ## CMS
@@ -49,7 +61,7 @@ I'm Mugisha, a software engineer who specialises in building secure & scalable b
 ## I'm currently working on...
 
 - [BlackTechJobs - Twitter bot](https://github.com/MugishaU/twitter-bot)
-- [My (_new_) Portfolio](https://github.com/MugishaU/portfolio_v2)
+- [My _(new)_ Portfolio](https://github.com/MugishaU/portfolio_v2)
 - [FP Tower (Functional Programming in Scala)](https://github.com/MugishaU/fp-tower)
 
 ---
