@@ -26,6 +26,7 @@ I'm Mugisha, a software engineer who specialises in building secure & scalable b
     <img src = "icons/devops/github-actions.svg" alt="github actions">
     <img src = "icons/devops/jenkins.svg" alt="jenkins"/>
     <img src = "icons/devops/datadog.svg" alt="datadog"/>
+    <img src = "icons/devops/cloudflare.svg" alt="cloudflare"/>
 </div>
 
 ## Storage & Messaging
@@ -34,6 +35,14 @@ I'm Mugisha, a software engineer who specialises in building secure & scalable b
     <img src = "icons/storage/kafka.svg" alt="kafka"/>
     <img src = "icons/storage/postgresql.svg" alt="postgresql"/>
     <img src = "icons/storage/mysql.svg" alt="mysql"/>
+</div>
+
+## Hosting
+
+<div float="left">
+    <img src = "icons/hosting/netlify.svg" alt="netlify"/>
+    <img src = "icons/hosting/heroku.svg" alt="heroku"/>
+    <img src = "icons/hosting/vercel.svg" alt="vercel"/>
 </div>
 
 ## CMS
