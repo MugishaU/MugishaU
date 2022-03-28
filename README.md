@@ -8,6 +8,7 @@ I'm Mugisha, a software engineer who specialises in building secure & scalable b
     <img src = "icons/languages/scala.svg" alt="scala"/>
     <img src = "icons/languages/python.svg" alt="python"/> 
     <img src = "icons/languages/node.svg" alt="node"/>
+    <img src = "icons/languages/typescript.svg" alt="typescript"/>
     <img src = "icons/languages/react.svg" alt="react"/>
     <img src = "icons/languages/flask.svg" alt="flask"/>
     <img src = "icons/languages/bash.svg" alt="bash"/>
