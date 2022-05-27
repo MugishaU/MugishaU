@@ -5,11 +5,12 @@ I'm Mugisha, a software engineer who specialises in building secure & scalable b
 ## Languages & Frameworks\*
 
 <div float="left">
+    <img src = "icons/languages/typescript.svg" alt="typescript"/>
     <img src = "icons/languages/scala.svg" alt="scala"/>
     <img src = "icons/languages/python.svg" alt="python"/> 
     <img src = "icons/languages/node.svg" alt="node"/>
     <img src = "icons/languages/react.svg" alt="react"/>
-    <img src = "icons/languages/typescript.svg" alt="typescript"/>
+    <img src = "icons/languages/nestjs.svg" alt="nestjs"/>
     <img src = "icons/languages/flask.svg" alt="flask"/>
     <img src = "icons/languages/bash.svg" alt="bash"/>
     <img src = "icons/languages/bootstrap.svg" alt="bootstrap"/>
@@ -21,6 +22,7 @@ I'm Mugisha, a software engineer who specialises in building secure & scalable b
 <div float="left">
     <img src = "icons/devops/aws.svg" alt="aws"/>
     <img src = "icons/devops/gcp.svg" alt="gcp"/>
+    <img src = "icons/devops/docker.svg" alt="docker"/>
     <img src = "icons/devops/firebase.svg" alt="firebase"/>
     <img src = "icons/devops/terraform.svg" alt="terraform"/>
     <img src = "icons/devops/circleci.svg" alt="circleci"/>
