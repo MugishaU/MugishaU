@@ -21,15 +21,12 @@ I'm Mugisha, a software engineer who specialises in building secure & scalable b
 
 <div float="left">
     <img src = "icons/devops/aws.svg" alt="aws"/>
-    <img src = "icons/devops/gcp.svg" alt="gcp"/>
     <img src = "icons/devops/docker.svg" alt="docker"/>
     <img src = "icons/devops/firebase.svg" alt="firebase"/>
     <img src = "icons/devops/terraform.svg" alt="terraform"/>
     <img src = "icons/devops/circleci.svg" alt="circleci"/>
     <img src = "icons/devops/github-actions.svg" alt="github actions">
-    <img src = "icons/devops/jenkins.svg" alt="jenkins"/>
     <img src = "icons/devops/datadog.svg" alt="datadog"/>
-    <img src = "icons/devops/cloudflare.svg" alt="cloudflare"/>
 </div>
 
 ## Storage & Messaging
