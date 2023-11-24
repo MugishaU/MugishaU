@@ -54,16 +54,4 @@ I'm Mugisha, a software engineer who specialises in building secure & scalable b
 
 ---
 
-[![MugishaU GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugishau&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&locale=en&custom_title=My%20Activity)](https://github.com/mugishau/github-readme-stats)
-
----
-
-## I'm currently working on...
-
-- ### [BlackTechJobs - Twitter bot](https://github.com/MugishaU/twitter-bot)
-- ### [Docker Mastery: with Kubernetes +Swarm](https://www.udemy.com/course/docker-mastery/)
-- ### [My _(new)_ Portfolio](https://github.com/MugishaU/portfolio_v2)
-
----
-
-\*Yes, I _know_ React is a library.
+*Yes, I _know_ React is a library.
