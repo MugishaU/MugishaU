@@ -1,6 +1,6 @@
 # Hi there 👋🏿
 
-I'm Mugisha, a software engineer who specialises in building secure & scalable backend services. I'm currently helping to build a private photo journal for friends, not followers at [Lapse](https://apps.apple.com/gb/app/lapse-disposable-camera/id1636699256).
+I'm Mugisha, a software engineer who specialises in building secure & scalable backend services. I'm currently helping to build a private photo journal for *friends*, not followers at [Lapse](https://apps.apple.com/gb/app/lapse-disposable-camera/id1636699256).
 
 ## Languages & Frameworks\*
 
